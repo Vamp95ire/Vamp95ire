@@ -1,7 +1,3 @@
-- 👋 Hi, I'm FATIMA 👀 
-- 🌱 I’m currently learning BEng of robotics.
-- 📫 How to reach me: instagram @vamp_ire95 
-  
 
 <!---
 Vamp95ire/Vamp95ire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
